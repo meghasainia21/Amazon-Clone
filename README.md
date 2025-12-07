@@ -3,7 +3,7 @@ A clean and responsive Amazon homepage clone built using only HTML and CSS.
 This project helped me practice layout design, component structuring, and replicating real-world UI patterns from a large-scale website like Amazon.
 <br>
 <br>
-✨ Features
+✨ <br>Features</b>
 <br>
 🧭 Fully designed Amazon-style navigation bar
 <br>
@@ -20,7 +20,7 @@ This project helped me practice layout design, component structuring, and replic
 🔥 Hover effects + neat transitions
 <br>
 <br>
-🛠️ Tech Stack
+🛠️ <b>Tech Stack</b>
 <br>
 HTML5
 <br>

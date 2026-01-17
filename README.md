@@ -4,7 +4,7 @@ This project helped me practice layout design, component structuring, and replic
 <br>
 <br>
 <h2><b>✨ Features</b></h2>
-<br>
+
 🧭 Fully designed Amazon-style navigation bar
 <br>
 🎞️ Hero banner/slider layout
@@ -20,15 +20,14 @@ This project helped me practice layout design, component structuring, and replic
 🔥 Hover effects + neat transitions
 <br>
 <br>
- <h4><b>🛠️ Tech Stack</b></h4>
-<br>
+ <h2><b>🛠️ Tech Stack</b></h2>
 HTML5
 <br>
 CSS3 (Flexbox + Grid)
 <br>
 <br>
- <h4><b>💡 What I Learned</b></h4>
-<br>
+ <h2><b>💡 What I Learned</b></h2>
+
 Structuring large layouts using div-based architecture
 <br>
 Creating responsive grid + flex layouts
